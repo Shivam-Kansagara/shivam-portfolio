@@ -3,16 +3,16 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #020c1b;
-    --navy: #14120b;
+    --navy: #0d0d0d;
     --light-navy: #1b1913;
-    --lightest-navy: #edecec;
+    --lightest-navy: #b7ab98;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
-    --slate: #edecec;
-    --light-slate: #edecec;
-    --lightest-slate: #ff6500;
+    --slate: #b7ab98;
+    --light-slate: #b7ab98;
+    --lightest-slate: #eb5939;
     --white: #e6f1ff;
-    --green: #ff6500;
+    --green: #eb5939;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
