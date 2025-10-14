@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Price Tracker website'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/ShivamKansagara/Price_Tracker_Website/'
+external: 'https://github.com/ShivamKansagara/Price_Tracker_Website/'
 tech:
+  - JavaScript
   - React
-  - Styled Components
+  - Node.js
   - Express
-  - Spotify API
-  - Heroku
+  - MongoDB
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Implemented a web scraping solution using the MERN stack to extract data from top e-commerce sites, leading to a 75% reduction in manual data collection time.
+Optimized data retrieval processes and scraping algorithms, cutting response times from 15 seconds to 3 seconds, and improving system efficiency by 50%.

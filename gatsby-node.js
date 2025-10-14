@@ -105,3 +105,13 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
     },
   });
 };
+
+// Explicitly add optional fields used in queries so schema inference doesn't break
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      cta: String
+    }
+  `);
+};

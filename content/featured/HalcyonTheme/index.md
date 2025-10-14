@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Attendance Management System'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/bhavya2403/AttendanceManagementSystem/'
+external: 'https://github.com/bhavya2403/AttendanceManagementSystem/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - JavaScript
+  - Python
+  - React
+  - Django
+  - MongoDB
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Co-led a four-person team to develop an attendance management system, enhancing user experience and optimizing data management for 3 distinct user roles.
+Architected and Implemented the MongoDB database, improving data retrieval and ensuring efficient handling of complex attendance records
